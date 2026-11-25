@@ -1,0 +1,8 @@
+node_modules/
+auth_info_baileys/
+serviceAccountKey.json
+serviceAccountKey.json.json
+firebase-service-account-env.txt
+.env
+*.log
+.DS_Store
